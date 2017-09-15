@@ -1,1 +1,1 @@
-# graphtheory
+# GraphTheory
